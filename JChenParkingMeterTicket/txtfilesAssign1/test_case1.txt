@@ -1,4 +1,0 @@
-Car Info: Fiat 2007 Green 7H2349M
-Police Officer Info: Dan Bean, 9083
-Minutes Exceeded: 1
-Amount of fine to be payed: $25
