@@ -1,0 +1,4 @@
+Car Info: Tesla 2019 white VR00M
+Police Officer Info: Sean Blum, 3403
+Minutes Exceeded: 80
+Amount of fine to be payed: $35
